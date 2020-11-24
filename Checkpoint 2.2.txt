@@ -1,0 +1,1 @@
+After adding the normal map, the sphere becomes darker and has a more natural looking texture in comparison to the super smooth appearance the sphere had before adding the normal map. 

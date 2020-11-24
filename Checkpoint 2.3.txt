@@ -1,0 +1,1 @@
+After adding the displacement map, the sphere transformed into an object that looks more like a natural rock that one could find in nature. It is different from adding the normal map, which only caused the sphere to have a rocky surface, but now became altered in a way that made it appear as an actual rock. 
